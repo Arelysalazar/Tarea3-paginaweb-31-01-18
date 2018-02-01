@@ -1,0 +1,44 @@
+#titulo { 
+	color: #914949;
+	text-align: center;
+	font-size: 35px;
+	font-family: Georgia, Sans-serif;
+	font-style: bold;
+	text-transform: uppercase;
+}
+
+h2{
+ 	color: #914949;
+	text-align: center;
+	font-size: 25px;
+	font-family: calibri, Sans-serif;
+	font-style: bold;
+	text-transform: uppercase;
+ }
+
+body  {
+	background-image: url("wallpaper.jpg"); 
+	font-family: calibri;
+}
+
+.content{
+	text-align: justify;
+	background-color: #E6E6FA;
+    width: 100%;
+    border: 3px solid #7B68EE;
+    padding: 25px;
+    margin: 25px;
+}
+
+.img-align {
+	text-align: center;
+}
+
+.disp-center {
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+
